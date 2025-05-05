@@ -18,7 +18,7 @@ const Projects = () => {
       description: 'A fully functional e-commerce website built with React, Node.js, Express, and MongoDB.',
       techStack: ['React', 'Node.js', 'Express', 'MongoDB'],
       image: '/project2.png',
-      codeLink: 'https://github.com/yourusername/e-commerce-website',
+      codeLink: 'https://github.com/SumitSingh6122/Netflix-Clone-MERN-Stack-Project-',
       liveLink: 'https://yourusername.github.io/e-commerce-website',
       category: 'Web Development'
     },
@@ -28,8 +28,8 @@ const Projects = () => {
       description: 'A personal blog built with Next.js and GraphQL to share articles and tutorials.',
       techStack: ['Next.js', 'GraphQL', 'CSS', 'MongoDB'],
       image: '/project3.png',
-      codeLink: 'https://github.com/yourusername/personal-blog',
-      liveLink: 'https://yourusername.github.io/personal-blog',
+      codeLink: 'https://github.com/SumitSingh6122/Chat-Application',
+      liveLink: 'http://chat-application-three-green.vercel.app/',
       category: 'Web Development'
     },
     {
@@ -38,8 +38,8 @@ const Projects = () => {
       description: 'A real estate platform allowing users to search, filter, and list properties, built using the MERN stack.',
       techStack: ['MongoDB', 'Express', 'React', 'Node.js'],
       image: '/project4.png',
-      codeLink: 'https://github.com/yourusername/real-estate-platform',
-      liveLink: 'https://yourusername.github.io/real-estate-platform',
+      codeLink: 'https://github.com/SumitSingh6122/Ai-Powered-Resume-Builder',
+      liveLink: 'https://nextgenresume.vercel.app/',
       category: 'AI/ML'
     },
     {
@@ -48,8 +48,8 @@ const Projects = () => {
       description: 'A real estate platform allowing users to search, filter, and list properties, built using the MERN stack.',
       techStack: ['MongoDB', 'Express', 'React', 'Node.js'],
       image: '/project5.png',
-      codeLink: 'https://github.com/yourusername/real-estate-platform',
-      liveLink: 'https://yourusername.github.io/real-estate-platform',
+      codeLink: 'https://www.ai-shorts-video-generator.live',
+      liveLink: 'https://github.com/SumitSingh6122/Ai-Shorts-video-generator-youtube-Automation',
       category: 'AI/ML'
     }
   ];
